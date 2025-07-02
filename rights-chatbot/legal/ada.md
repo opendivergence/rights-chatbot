@@ -1,0 +1,3 @@
+# ADA Overview
+
+The Americans with Disabilities Act (ADA) protects individuals...
