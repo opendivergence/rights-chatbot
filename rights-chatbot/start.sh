@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Starting the rights chatbot using your local LLM..."
-python3 app.py
+uvicorn app:app --reload --host 0.0.0.0 --port 8000
